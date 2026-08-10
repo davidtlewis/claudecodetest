@@ -2,7 +2,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ["claude/github-repo-access-3o8hls"]
+    branches: ["claude/add-33-program-MXYAx"]
   workflow_dispatch:
 
 permissions:
